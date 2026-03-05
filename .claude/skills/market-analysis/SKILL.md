@@ -1,38 +1,35 @@
 ---
 name: market-analysis
-description: Analyse industries, sectors, and market opportunities.
+description: Analyse industries, sectors and market dynamics.
 ---
 
 # Market Analysis
 
-Use this skill when the user asks about:
-
-- analysing an industry
-- evaluating a sector
-- market size or trends
-- new business opportunities
-- competitive landscape
+Run after context-primer.
 
 ## Workflow
 
-### 1 Market Overview
-Describe the industry structure and key players.
+### Industry Structure
+Describe the industry.
 
-### 2 Market Size
+### Market Size
 Estimate:
 
-- TAM
-- SAM
-- SOM
+TAM  
+SAM  
+SOM
 
-### 3 Growth Drivers
-Identify the major drivers of demand.
+### Growth Drivers
+Explain demand drivers.
 
-### 4 Industry Trends
-Identify technology, regulation, and capital trends.
+### Industry Trends
+Identify technology, regulatory and capital trends.
 
-### 5 Competitive Landscape
-List the main competitors and positioning.
+### Strategic Insight
+Explain where opportunity exists.
 
-### 6 Market Opportunity
-Explain where the strongest opportunity exists.
+## Output
+
+Market Summary  
+Recommendation  
+Next Step
