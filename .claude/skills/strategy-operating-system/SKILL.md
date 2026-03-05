@@ -1,57 +1,34 @@
 ---
 name: strategy-operating-system
-description: Run a complete strategic analysis using all available strategy skills.
+description: Run a full strategic analysis by orchestrating all strategy skills.
 ---
 
 # Strategy Operating System
 
-This skill coordinates multiple strategy skills to produce a full strategic analysis.
+Use this when evaluating a major strategic decision.
 
-Use this when the user asks about:
+## Execution Pipeline
 
-- entering a new market
-- evaluating a major opportunity
-- strategic planning
-- expansion decisions
-- sector analysis
+1. Run context-primer
+2. Run market-analysis
+3. Run competitive-analysis
+4. Run project-opportunity-evaluator
 
-## Workflow
+## Strategic Options
 
-Follow this sequence.
+Generate 3–5 possible strategic paths.
 
-### 1 Situation Overview
-Summarise the situation and goals.
+Evaluate trade-offs.
 
-### 2 Market Analysis
-Evaluate:
+## Final Recommendation
 
-- market size
-- growth drivers
-- industry trends
+Provide the strongest strategic option.
 
-### 3 Competitive Analysis
-Assess:
+## Action Plan
 
-- key competitors
-- positioning
-- competitive threats
-
-### 4 Opportunity Evaluation
-Score the opportunity based on:
-
-- market size
-- growth
-- competition
-- strategic fit
-
-### 5 Strategic Options
-Generate 3–5 strategic paths.
-
-### 6 Decision Framework
-Evaluate trade-offs and identify the best option.
-
-### 7 Final Recommendation
-Provide a clear recommendation.
-
-### 8 Execution Plan
 Provide a 90-day action plan.
+
+## Output
+
+Recommendation  
+Next Step
