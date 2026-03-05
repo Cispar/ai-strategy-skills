@@ -1,75 +1,45 @@
 ---
 name: project-opportunity-evaluator
-description: Evaluate potential projects, clients, or sectors to determine strategic value.
+description: Evaluate potential projects, clients or sectors using structured scoring.
 ---
 
 # Project Opportunity Evaluator
 
-Use this skill when evaluating:
+Use this skill after market-analysis and competitive-analysis.
 
-- new projects
-- client opportunities
-- sector expansion
-- partnerships
-- investments
+## Evaluation Criteria
 
-## Workflow
+Score from 1–10.
 
-### 1 Opportunity Summary
-Summarise the opportunity clearly.
+### Strategic Fit
+Alignment with company capabilities.
 
-Include:
-- project type
-- client
-- location
-- approximate scale
+### Market Attractiveness
+Market growth and demand.
 
-### 2 Strategic Fit
-Evaluate alignment with:
+### Competitive Position
+Likelihood of winning.
 
-- current capabilities
-- strategic sectors
-- long-term growth
+### Commercial Value
+Fee potential and margins.
 
-### 3 Commercial Potential
-Assess:
+### Delivery Risk
+Complexity, programme pressure and resource requirements.
 
-- potential fee value
-- margin potential
-- repeat work potential
+## Final Score
 
-### 4 Delivery Risk
-Evaluate risks such as:
+Provide total score and interpretation.
 
-- complexity
-- programme pressure
-- client reliability
-- resource requirements
+## Recommendation
 
-### 5 Competitive Position
-Assess:
+Choose one:
 
-- existing relationships
-- likelihood of winning
-- differentiation
+Pursue aggressively  
+Pursue selectively  
+Do not pursue
 
-### 6 Opportunity Score
+## Output
 
-Score from **1-10** across:
-
-- Strategic fit
-- Commercial value
-- Win probability
-- Delivery risk (inverse)
-
-Calculate a final score.
-
-### 7 Recommendation
-
-Provide one of:
-
-- **Pursue aggressively**
-- **Pursue selectively**
-- **Do not pursue**
-
-Explain reasoning.
+Opportunity Score  
+Recommendation  
+Next Step
